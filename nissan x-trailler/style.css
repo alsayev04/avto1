@@ -1,0 +1,112 @@
+body { 
+  margin: 0;
+  overflow: hidden;
+}
+   header {
+    display: block;
+    background: #00b0d8 url(images/header-gradient.png) repeat-x; 
+                /* Градиент */
+   }
+   .header-bg {
+    background: url(images/header-animal.png) repeat-x center bottom; 
+    height: 40px; 
+    text-align: center; 
+   }
+   .header-bg img {
+    position: relative; 
+    top: -20px; 
+    left: -630px;
+   }
+    .title{
+    font-size: 30px;
+    padding-top: -40px;
+    text-align: center;
+    top: -120px;
+    bottom: 180px;
+     font-family: forte, trebuchet, sans-serif; 
+
+}
+.op {
+  position: absolute;
+  top: 65%;
+  left: -41%;
+}
+.menu{
+    position: absolute;
+    top: 5px;
+    right: 100px;
+}
+   footer {
+    position: fixed; /* Фиксированное положение */
+    left: 0; bottom: 0; /* Левый нижний угол */
+    padding: 0px; /* Поля вокруг текста */
+    background: #00b0d8; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    width: 100%; /* Ширина слоя */
+   }
+   p {
+    position: relative;
+    left: 1175px;
+    bottom: 30px;
+   }
+ 
+
+.block {
+  display: block;
+}  
+.der {
+  border: 3px solid rebeccapurple;
+  padding: .4em;
+  display: flex;
+  list-style: none;
+  position: relative;
+  top: 50px;
+}
+a {
+  position: relative;
+  left: 1500px;
+  bottom: 20px;
+}
+.er {
+  position: relative;
+  left: 25px;
+  top: 105px;
+}
+.po {
+  position: relative;
+  right: 1140px;
+  top: 20px;
+}
+.tr {
+  position: relative;
+  left: 25px;
+  bottom: 25px;
+}
+.kartinka-1 {
+  position: relative;
+  left: 555px;
+  bottom: 250px;
+}
+.kartinka-2 {
+  position: relative;
+  left: 1126px;
+  bottom: 602px;
+}
+table {
+  border: 3px solid black;
+  position: relative;
+  left: 50px;
+  bottom: 600px;
+  text-align: center;
+}
+th {
+  border: 3px solid black;
+}
+.tekst {
+    position: absolute;
+    top: 600px;
+    left: 70px;
+    line-height: 0.3; /* уменьшить отступ между строками до 1.2 */
+  font-size: 14px; /* уменьшить размер шрифта до 14px */
+}
+    

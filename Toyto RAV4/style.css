@@ -1,0 +1,139 @@
+body { 
+  margin: 0;
+  overflow: hidden;
+ }
+   header {
+    display: block;
+    background: #00b0d8 url(images/header-gradient.png) repeat-x; 
+                /* Градиент */
+   }
+   .header-bg {
+    background: url(images/header-animal.png) repeat-x center bottom; 
+    height: 40px; 
+    text-align: center; 
+   }
+   .header-bg img {
+    position: relative; 
+    top: -20px; 
+    left: -630px;
+   }
+   .title{
+    font-size: 30px;
+    padding-top: -40px;
+    text-align: center;
+    top: -120px;
+    bottom: 180px;
+     font-family: forte, trebuchet, sans-serif; 
+   }
+.op {
+  position: absolute;
+  top: 51%;
+  left: -34%;
+}
+
+.pr {
+  position: absolute;
+  top: 10px;
+  left: 1150px;
+}
+ul { 
+  margin-left: 20px; /* отступ слева */
+}
+
+li {
+  margin-bottom: 10px; /* отступ между пунктами */
+}
+.menu{
+    position: absolute;
+    top: 5px;
+    right: 100px;
+}
+   footer {
+    position: fixed; /* Фиксированное положение */
+    left: 10; bottom: 0; /* Левый нижний угол */
+    padding: 0px; /* Поля вокруг текста */
+    background: #00b0d8; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    width: 100%; /* Ширина слоя */
+   }
+   p {
+    position: relative;
+    left: 1175px;
+    bottom: 30px;
+   }
+ 
+
+.block {
+  display: block;
+} 
+.bg-1 {
+  display: inline-block;
+    margin-right: 40px;
+    padding: 3px; 
+} 
+.der {
+  border: 3px solid rebeccapurple;
+  padding: .4em;
+  display: flex;
+  list-style: none;
+  position: relative;
+  top: 50px;
+}
+a {
+  position: relative;
+  left: 1500px;
+  bottom: 20px;
+}
+.er {
+  position: relative;
+  right: 1100px;
+  top: 50px;
+}
+.sds {
+  position: relative;
+  right: 1180px;
+  top: 40px;
+}
+.po {
+  position: relative;
+  right: 1140px;
+  top: 20px;
+}
+.tr {
+  position: relative;
+  left: 25px;
+  bottom: 25px;
+}
+.rav4 {
+  position: relative;
+  left: 25px;
+  top: 50px;
+}
+.maschinka-2 {
+  position: relative;
+  left: 600px;
+  bottom: 235px;
+}
+.maschinka-3 {
+  position: relative;
+  left: 1180px;
+  bottom: 510PX;
+}
+.tekst {
+    position: absolute;
+    top: 495px;
+    left: 100px;
+    line-height: 0.3; /* уменьшить отступ между строками до 1.2 */
+  font-size: 14px; /* уменьшить размер шрифта до 14px */
+}
+table {
+  position: relative;
+  border: 3px solid black;
+  left: 50px;
+  bottom: 450px;
+  text-align: center;
+}
+th {
+  border: 3px solid black;
+  }
+    

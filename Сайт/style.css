@@ -1,0 +1,206 @@
+body {
+ margin: 0;
+ }
+   header {
+    display: block;
+    background: #00b0d8 url(images/header-gradient.png) repeat-x; 
+                /* Градиент */
+   }
+   .header-bg {
+    background: url(images/header-animal.png) repeat-x center bottom; 
+    height: 40px; 
+    text-align: center; 
+   }
+   .header-bg img {
+    position: relative; 
+    top: -20px; 
+    left: -620px;
+   }
+   .title{
+    font-size: 30px;
+    padding-top: -40px;
+    text-align: center;
+    top: -120px;
+    bottom: 180px;
+    font-family: forte, trebuchet, sans-serif; 
+   }
+   .styl {
+    display: inline-block;
+    margin-right: 50px;
+    padding: 3px;
+   }
+.menu{
+    position: absolute;
+    top: 5px;
+    right: 100px;
+}
+   
+   li {
+    display: inline-block;
+    margin-right: 50px;
+    padding: 3px;
+   }
+   footer {
+    position: fixed; /* Фиксированное положение */
+    left: 10; bottom: 0; /* Левый нижний угол */
+    padding: 0px; /* Поля вокруг текста */
+    background: #00b0d8 url(images/header-gradient.png) repeat-x;  /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    width: 100%; /* Ширина слоя */
+   }
+   .ppp {
+    position: relative;
+    left: 1490px;
+    bottom: 20px;
+   }
+   .nissan {
+      position: relative;
+      left: 40px;
+      bottom: -75px;
+      padding: 10px;
+      border-radius: 5px;
+ }
+   .space {
+    padding: 250px; /* Поля */
+    margin-right: 220px;/*отступ справа*/
+    margin-left: 400px;/*отступ слева*/
+    width: 450px;
+    background: #fff; /* Цвет фона */
+    border: 3px solid blue; /* Параметры рамки */
+    height: 0px;
+   }
+   .knopka-11 {
+    left: 25px;
+    top: 250px;
+   }
+   .form-4 {
+      position: relative;
+      left: 450px;
+      top: -140px;
+   }
+   .for {
+      position: relative;
+      left: 450px;
+      top: -160px;
+   }
+   .tpr {
+      position: relative;
+      left: 450px;
+      top: -250px;
+   }
+   .er {
+      position: relative;
+      left: 450px;
+      top: -270px;
+   }
+
+   .form-2 {
+      position: relative;
+      top: -65px;
+      left: 15px;
+   }
+   .po {
+      position: relative;
+      left: 15px;
+      top: -80px;
+   }
+   .form-5 {
+      position: relative;
+      left: 15px;
+      top:  -170px;
+   }
+   .rp {
+      position: relative;
+      left: 15px;
+      top: -190px;
+   }
+   button {
+      position: relative;
+      left: 15px;
+      top: -90px;
+      height: 40px;
+      width: 85px;
+      background-color: #ffd700;
+      border-radius: 10px;
+      border: none;
+   }
+   .toyota {
+      position: relative;
+      left: 140px;
+      top: 67px;
+      padding: 1px;
+   }
+   .pr-1 {
+      position: relative;
+      left: 20px;
+      line-height: 0.5;
+   }
+    .knopka {
+      position: relative;
+      left: 145px;
+      bottom: -160px;
+
+   }
+   .maschinka {
+      position: relative;
+      left: 700px;
+      top: -335px;
+   }
+   .rav4 {
+      position: relative;
+      left: 840px;
+      bottom: 330px;
+   }
+   .pr-2 {
+      position: relative;
+      left: 800px;
+      line-height: 0.5;
+      bottom: 820px;
+   }
+   .knopka1 {
+      position: relative;
+      left: 835px;
+      bottom: 240px;
+   }
+   .maschinka-2 {
+      position: relative;
+      left: 45px;
+      bottom: 150px;
+   }
+   .pr-3 {
+      position: relative;
+      left: 35px;
+      line-height: 0.5;
+      bottom: 750px;
+   }
+   .Solaris {
+      position: relative;
+      left: 150px;
+      bottom: 150px;
+   }
+   .knopka2 {
+      position: relative;
+      bottom: 60px;
+      left: 140px;
+   }
+   .maschinka-3 {
+      position: relative;
+      bottom: 1121px;
+      left: 1390px;
+   }
+   .camry {
+      position: relative;
+      left: 1535px;
+      bottom: 1123px;
+   }
+   .pr-4 {
+      position: relative;
+      left: 900px;
+      bottom: 1560px;
+      line-height: 0.5;
+   }
+   .knopka3 {
+      position: relative;
+      left: 1530px;
+      bottom: 1033px;
+   }
